@@ -93,13 +93,21 @@ body {
     font-size: 10px;
 }
 .three{
-    height: 38vh;
+    height: 34vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
     align-items: center;
     padding: 2rem;
+}
+.container_btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+
 }
 .text_three p{
     font-size: 10px;
@@ -113,17 +121,18 @@ body {
     flex-direction: row;
     background-color: #ffd95a;
     color:#3b36c0;
-    width: 13rem;
+    /* width: 13rem; */
     justify-content: initial;
     align-items: center;
     margin-bottom: 1.5rem;
     border-radius: 10px;
-    padding: 0.5rem;
+    padding: 1rem;
     text-decoration: none;
 }
 .final_btn img{
     width: 1.5rem;
     margin-right: 1rem;
+    margin: 0;
 }
 
 .tel{
