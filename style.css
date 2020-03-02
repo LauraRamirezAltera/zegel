@@ -126,11 +126,11 @@ body {
     align-items: center;
     margin-bottom: 1.5rem;
     border-radius: 10px;
-    padding: 1rem;
+    padding: 0.5rem;
     text-decoration: none;
 }
 .final_btn img{
-    width: 2rem;
+    width: 2.5rem;
     margin-right: 1rem;
     margin: 0;
 }
