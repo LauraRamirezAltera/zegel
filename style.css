@@ -99,7 +99,7 @@ body {
     justify-content: space-evenly;
     text-align: center;
     align-items: center;
-    padding: 2rem;
+    padding: 1rem;
 }
 .container_btn{
     display: flex;
@@ -112,8 +112,8 @@ body {
 .text_three p{
     font-size: 10px;
 }
-.text_three h2{
-    margin-bottom: 0.5rem;
+.text_three img{
+    width: 20rem;
 }
 
 .final_btn{
