@@ -64,6 +64,9 @@ body {
     font-size: 12px;
     color: #fff;
 }
+.second a{
+   text-decoration: none;
+}
 .second_title{
     font-weight: 600;
 }
@@ -121,13 +124,13 @@ body {
     flex-direction: row;
     background-color: #ffd95a;
     color:#3b36c0;
-    /* width: 13rem; */
-    justify-content: initial;
+    justify-content: center;
     align-items: center;
     margin-bottom: 1.5rem;
     border-radius: 10px;
     padding: 0.5rem;
     text-decoration: none;
+    width: 4rem;
 }
 .final_btn img{
     width: 2.5rem;
@@ -192,9 +195,6 @@ body {
     }
     .text_three p {
         font-size: 12px;
-    }
-    .final_btn {
-        width: 16rem;
     }
     .email {
         font-size: 15px;
